@@ -1,0 +1,8 @@
+platform :ios, ‘8.0’
+
+target ‘depthAndTemp’ do
+
+pod 'Fabric'
+pod 'Crashlytics'
+
+end
